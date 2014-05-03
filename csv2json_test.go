@@ -45,3 +45,7 @@ func TestConvertWithBuffer(t *testing.T) {
             columns, string(got), want)
     }
 }
+
+func TestConvertWithFile(t *testing. T) {
+    
+}
